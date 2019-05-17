@@ -21,7 +21,7 @@ ejercicio7:
 La funcion de ejercicio es que nos saldra una ventana en donde nos aparecera la opcion de escoger si es hombre o mujer o los dos a la vez. 
 
 ejercicio8:
-La funcion de ejercicio es que nos saldra una ventana en donde nos aparecera un mensaje "Indicar el Sexo" entres estas opciones esta MALE Y  FEMALEy la opciones que sea seleccionada presionando el boton SHOW ira marcando el valor de (1) con la opciones seleccionada y abra otro botton llamado QUIT para salir . 
+La funcion de ejercicio es que nos saldra una ventana en donde nos aparecera un mensaje "Indicar el Sexo" entres estas opciones esta MALE Y  FEMALE y la opciones que sea seleccionada presionando el boton SHOW ira marcando el valor de (1) con la opciones seleccionada y abra otro botton llamado QUIT para salir . 
 
 
 ejercicio9:
